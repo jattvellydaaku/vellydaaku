@@ -1,0 +1,13 @@
+Package: com.vellydaaku.prysmindiamix
+Version: 1.0
+Section: Themes
+Depends: mobilesubstrate, firmware (>= 10.0)
+Architecture: iphoneos-arm
+Filename: ./debs/PrysmIndiaMix.deb
+Size: 121758
+MD5sum: 39ae172fb8494c8934b8b75f360453e3
+Description: My First Project
+Name: PrysmIndiaMix
+Depiction: https://jattvellydaaku.github.io/vellydaaku/depictions/?p=com.vellydaaku.prysmindiamix
+Author: VellyDaaku <jowangurm@gmail.com>
+Maintainer: VellyDaaku <jowangurm@gmail.com>
